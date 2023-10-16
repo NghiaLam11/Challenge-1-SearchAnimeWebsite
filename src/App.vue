@@ -7,6 +7,11 @@ import HomeAnime from "./components/HomeAnime.vue";
 </template>
 
 <style scoped>
+#app {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
